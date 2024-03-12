@@ -12,8 +12,8 @@ I'm a Computer Engineering Undergrad at Silver Oak University, constantly explor
 Here are a few tools and technologies I enjoy working with:
 - Languages: python
 - Frameworks: keras,tensorflow,pytorch
-- Tools: github, docker, jira, bit-bucket
-
+- Tools: Github, docker, Kaggle , Roboflow
+- Platforms : Google Collab , GCP , AWS
 
 
 ### 🌐 Connect with Me
