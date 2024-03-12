@@ -17,7 +17,7 @@ Here are a few tools and technologies I enjoy working with:
 
 
 ### 🌐 Connect with Me
-- https://www.linkedin.com/in/gunjashah/ : Let's connect and expand our professional networks.
+- [LinkedIN](https://www.linkedin.com/in/gunjashah/) : Let's connect and expand our professional networks.
 
 ### 📫 Let's Chat!
 Whether it's about collaborating on a project, discussing the latest tech trends, or sharing a funny programming meme, feel free to reach out to me via [Email](gunjashah78@gmail.com).
