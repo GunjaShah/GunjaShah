@@ -1,7 +1,7 @@
 # 🚀 Hello, World! I'm Gunja Shah 👋
 
 ### 🌟 About Me
-I'm a Computer Engineering Undergrad at Silver Oak University, constantly exploring the realms of AI-ML,DATA SCIENECE.My journey through DATA SCIENEC has been a fascinating rollercoaster till now, and I thrive on the adrenaline rush of solving Real-world puzzles.
+I'm a Computer Engineering Undergrad at Silver Oak University, constantly exploring the realms of AI-ML,Data Science.My journey through Data Science has been a fascinating rollercoaster till now, and I thrive on the adrenaline rush of solving Real-world puzzles.
 
 ### 💼 What I Do
 - **Coding**: Turning coffee into code, I craft elegant solutions to real-world problems.
