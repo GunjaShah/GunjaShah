@@ -4,7 +4,7 @@
 I'm a Computer Engineering Undergrad at Silver Oak University, constantly exploring the realms of AI-ML,Data Science.My journey through Data Science has been a fascinating rollercoaster till now, and I thrive on the adrenaline rush of solving Real-world puzzles.
 
 ### 💼 What I Do
-- **Coding**: Turning coffee into code, I craft elegant solutions to real-world problems.
+- **Coding**: Turning coffee into code, I craft elegant solutions to real-world problem.
 - **Collaborating**: I believe in the power of teamwork and enjoy building awesome stuff with others.
 - **Exploring**: Always curious, I'm on a perpetual quest to discover new technologies and trends.
 
